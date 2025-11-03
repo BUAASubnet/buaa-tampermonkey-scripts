@@ -38,3 +38,11 @@
 食用方法：点击题目序号。
 
 [buaa-dmplatform.js](buaa-dmplatform.js)
+
+
+## MSA-Download-Video - BUAA MSA Classroom Video Downloader
+
+在BUAA MSA Classroom平台上下载课程视频。
+食用方法：进入课程页面 (https://classroom.msa.buaa.edu.cn/coursedetail?course_id=*) 后点击下载按钮。一般一节课会对应两个视频（教师和屏幕）。另外，支持通过浏览器新标签页预览视频，以及下载本节课的PPT（纯图片版）。脚本的下载功能有一点bug，在批量下载时可能触发失败/卡顿。
+
+[msa-download-video.js](msa-download-video.js)
