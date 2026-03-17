@@ -1,5 +1,12 @@
 # 北航网站相关油猴脚本
 
+## BUAA-SPOC-Helper
+
+针对智学北航平台的增强插件，支持 MSA 回放字幕/PPT 导出、课程详情视频/PPTX 下载，以及 SPOC 播放器辅助工具，刷《国家安全》
+
+[buaa-spoc.helper.js](buaa-spoc-helper.js)
+
+[GitHub仓库](https://github.com/peter-erer/buaa-spoc-helper)
 
 ## Accoding - BUAA Accoding Add Copy Button
 
